@@ -1,17 +1,32 @@
 const data = [
   {
     id: 1,
-    title: 'Wash dishes',
+    title: 'Watch a movie',
     priority: 'High',
   },
   {
     id: 2,
-    title: 'Go to the gym',
+    title: 'Help your mother',
     priority: 'Low',
   },
   {
     id: 3,
-    title: 'Learn coding',
+    title: 'Finish studying',
+    priority: 'Moderate',
+  },
+  {
+    id: 4,
+    title: 'Thank Zainab',
+    priority: 'High',
+  },
+  {
+    id: 5,
+    title: 'Thank Laila',
+    priority: 'High',
+  },
+  {
+    id: 6,
+    title: 'Code',
     priority: 'Moderate',
   },
 ];
